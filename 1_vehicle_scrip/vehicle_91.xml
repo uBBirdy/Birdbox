@@ -1,0 +1,267 @@
+<?xml version="1.0" encoding="UTF-8"?><vehicle data_version="3" bodies_id="54"><editor_placement_offset x="-17.75" y="-4.5" z="11.029446"/><authors><author steam_id="76561197978239304" username="Tajin"/></authors><bodies><body unique_id="46"><components><c d="monitor_9"><o r="1,0,0,0,1,0,0,0,1" bc="141414" ac="482700" sc="73,141414,141414,141414,141414,141414,141414,141414,141414,141414,141414,141414,141414,141414,141414,141414,141414,141414,141414,141414,141414,141414,141414,141414,141414,141414,141414,141414,141414,141414,141414,141414,141414,141414,141414,141414,141414,141414,141414,141414,141414,141414,141414,141414,141414,141414,141414,141414,482700,482700,482700,482700,482700,141414,141414,482700,482700,482700,482700,482700,141414,141414,482700,482700,482700,482700,482700,141414,141414,482700,482700,482700,482700,482700"><vp x="9" y="4" z="7"/><logic_slots><slot editor_connected="1"/><slot/><slot editor_connected="1"/></logic_slots></o></c><c d="gate_bool_constant"><o r="-1,0,0,0,-1,0,0,0,1" bc="141414" ac="141414" sc="1" timer_scalar_1="0.183" timer_scalar_2="0.183"><vp x="6" y="3" z="6"/><logic_slots><slot/><slot/><slot/><slot/><slot/><slot/><slot/><slot/><slot/><slot/><slot/><slot/><slot/><slot/><slot/></logic_slots><property_output_float_val text="0"/><min_threshold text="0"/><max_threshold text="0"/><pid_controller_ki text="1" value="1"/><pid_controller_kp text="1" value="1"/><pid_controller_kd text="1" value="1"/><pid_controller_max_error text="0"/><exp text="2" value="2"/><min_lever_value text="-1" value="-1"/><max_lever_value text="1" value="1"/><starting_lever_value text="0"/></o></c><c d="02_wedge"><o r="0,0,-1,0,-1,0,-1,0,0" bc="482700" ac="482700" sc="5,342700,482700,482700,482700,342700"><vp x="13" y="3" z="9"/></o></c><c d="02_wedge"><o r="0,0,-1,0,-1,0,-1,0,0" bc="482700" ac="482700" sc="5,482700,482700,482700,482700,342700"><vp x="13" y="3" z="8"/></o></c><c d="02_wedge"><o r="0,0,-1,0,-1,0,-1,0,0" bc="482700" ac="482700" sc="5,482700,482700,482700,482700,342700"><vp x="13" y="3" z="6"/></o></c><c d="02_wedge"><o r="0,0,-1,0,-1,0,-1,0,0" bc="482700" ac="482700" sc="5,482700,342700,482700,482700,342700"><vp x="13" y="3" z="5"/></o></c><c d="02_wedge"><o r="0,0,1,0,-1,0,1,0,0" bc="482700" ac="482700" sc="5,482700,342700,482700,482700,342700"><vp x="5" y="3" z="9"/></o></c><c d="02_wedge"><o r="0,0,1,0,-1,0,1,0,0" bc="482700" ac="482700" sc="5,482700,482700,482700,482700,342700"><vp x="5" y="3" z="8"/></o></c><c d="02_wedge"><o r="0,0,1,0,-1,0,1,0,0" bc="482700" ac="482700" sc="5,482700,482700,482700,482700,342700"><vp x="5" y="3" z="6"/></o></c><c d="02_wedge"><o r="0,0,1,0,-1,0,1,0,0" bc="482700" ac="482700" sc="5,342700,482700,482700,482700,342700"><vp x="5" y="3" z="5"/></o></c><c><o r="-1,0,0,0,-1,0,0,0,1" bc="482700" ac="482700" sc="6,342700,482700,482700,482700,482700,482700"><vp x="6" y="3" z="9"/></o></c><c><o r="-1,0,0,0,-1,0,0,0,1" bc="482700" ac="482700" sc="6,342700,482700,482700,482700,482700,482700"><vp x="7" y="3" z="9"/></o></c><c><o r="-1,0,0,0,-1,0,0,0,1" bc="482700" ac="482700" sc="6,342700,482700,482700,482700,482700,482700"><vp x="8" y="3" z="9"/></o></c><c><o r="-1,0,0,0,-1,0,0,0,1" bc="482700" ac="482700" sc="6,342700,482700,482700,482700,482700,482700"><vp x="9" y="3" z="9"/></o></c><c><o r="-1,0,0,0,-1,0,0,0,1" bc="482700" ac="482700" sc="6,342700,482700,482700,482700,482700,482700"><vp x="10" y="3" z="9"/></o></c><c><o r="-1,0,0,0,-1,0,0,0,1" bc="482700" ac="482700" sc="6,482700,342700,482700,482700,482700,482700"><vp x="6" y="3" z="5"/></o></c><c><o r="-1,0,0,0,-1,0,0,0,1" bc="482700" ac="482700" sc="6,482700,342700,482700,482700,482700,482700"><vp x="7" y="3" z="5"/></o></c><c><o r="-1,0,0,0,-1,0,0,0,1" bc="482700" ac="482700" sc="6,482700,342700,482700,482700,482700,482700"><vp x="8" y="3" z="5"/></o></c><c><o r="-1,0,0,0,-1,0,0,0,1" bc="482700" ac="482700" sc="6,482700,342700,482700,482700,482700,482700"><vp x="9" y="3" z="5"/></o></c><c><o r="-1,0,0,0,-1,0,0,0,1" bc="482700" ac="482700" sc="6,482700,342700,482700,482700,482700,482700"><vp x="10" y="3" z="5"/></o></c><c d="07_invpyramid_2"><o r="1,0,0,0,0,-1,0,1,0" bc="482700" ac="482700" sc="12,482700,482700,482700,342700,342700,1F0F00,482700,482700,342700,342700,1F0F00,482700"><vp x="6" y="2" z="5"/></o></c><c d="07_invpyramid_2" t="2"><o r="1,0,0,0,0,-1,0,1,0" bc="482700" ac="482700" sc="12,482700,482700,482700,342700,342700,1F0F00,482700,482700,342700,342700,1F0F00,482700"><vp x="6" y="2" z="9"/></o></c><c d="microprocessor"><o r="1,0,0,0,-1,0,0,0,-1" bc="141414" ac="141414" sc="38"><microprocessor_definition name="Microcontroller" description="No description set." width="4" length="3" id_counter="31" id_counter_node="12" sym0="65535" sym1="65535" sym2="65535" sym3="65535" sym4="65535" sym5="65535" sym6="65535" sym7="65535" sym8="65535" sym9="65535" sym10="65535" sym11="65535" sym12="65535" sym13="65535" sym14="65535" sym15="65535"><nodes><n id="1" component_id="6"><node label="Input" mode="1" type="6" description="The input signal to be processed."><position x="1" z="1"/></node></n><n id="2" component_id="8"><node label="Input" type="6" description="The input signal to be processed."/></n><n id="3" component_id="9"><node label="Input" mode="1" type="5" description="The input signal to be processed."><position z="1"/></node></n><n id="4" component_id="11"><node label="Input" type="5" description="The input signal to be processed."><position x="1"/></node></n><n id="5" component_id="18"><node label="collision" description="The input signal to be processed."><position z="2"/></node></n><n id="6" component_id="20"><node label="hole" description="The input signal to be processed."><position x="1" z="2"/></node></n><n id="7" component_id="21"><node label="shoot" mode="1" description="The input signal to be processed."><position x="2"/></node></n><n id="8" component_id="22"><node label="reset" mode="1" description="The input signal to be processed."><position x="2" z="1"/></node></n><n id="9" component_id="26"><node label="wall" description="The input signal to be processed."><position x="2" z="2"/></node></n><n id="10" component_id="28"><node label="shoot1" mode="1" description="The input signal to be processed."><position x="3"/></node></n><n id="11" component_id="29"><node label="shoot2" mode="1" description="The input signal to be processed."><position x="3" z="1"/></node></n><n id="12" component_id="30"><node label="shoot3" mode="1" description="The input signal to be processed."><position x="3" z="2"/></node></n></nodes><group><data type="858664994"><inputs/><outputs/></data><components><c type="56"><object id="13" script='-- shorcuts
+M=math
+si=M.sin
+co=M.cos
+pi=M.pi
+pi2=pi*2
+
+S=screen
+dL=S.drawLine
+dC=S.drawCircle
+dCF=S.drawCircleF
+dR=S.drawRect
+dRF=S.drawRectF
+dT=S.drawTriangle
+dTF=S.drawTriangleF
+dTx=S.drawText
+dTxB=S.drawTextBox
+
+C=S.setColor
+
+MS=map.mapToScreen
+SM=map.screenToMap
+
+I=input
+gN=I.getNumber
+gB=I.getBool
+O=output
+P=property
+prB=P.getBool
+prN=P.getNumber
+prT=P.getText
+
+tU=table.unpack
+ins=table.insert
+F=string.format
+
+
+function vec(a,l) return l*si(a*pi/180),l*-co(a*pi/180) end
+
+bS = 5.5
+balls = {}
+num = {""	,1	,2	,9	,3	,8	,10	,4	,14	,7	,11	,12	,6	,15	,13	,5	}
+b_r = {99	,99	,0	,99	,99	,10	,0	,22	,22	,66	,99	,33	,0	,77	,88	,99	}
+b_g = {99	,88	,0	,88	,0	,10	,22	,0	,99	,0	,11	,0	,66	,0	,44	,55	}
+b_b = {99	,0	,66	,0	,0	,10	,99	,44	,0	,0	,0	,66	,0	,0	,0	,0	}
+side = {0,1,1,2,1,1,2,1,2,1,2,2,1,2,2,1}
+rdy = false
+
+new = function(x,y,rgb)
+	local s={}
+	s.x,s.y,s.rgb,s.vx,s.vy,s.out = x,y,rgb,0,0,false
+	function s.imp(s,x,y)
+		s.vx = s.vx +x
+		s.vy = s.vy +y
+	end
+	function s.impA(s,a,v)
+		s.vx,s.vy = s.vx+v*si(a),s.vy+v*co(a)
+	end
+	return s
+end
+
+function onTick()
+	if tH==nil then return true end
+	if gB(11) then Wh=nil end
+	if gB(1) then rdy=true end
+	if Wh == nil then --init
+		balls = {}
+		Wh = new(tL+tW/4,cy)
+		ins(balls,Wh)
+		x = tL+tW*0.65
+		y = cy
+		a = 1
+		for x1=1,5 do
+			for y1=1,x1 do
+				ins(balls,new(x+11*x1,-6+y-6*x1+12*y1))
+			end
+		end
+	end
+
+	tx,ty=gN(3),gN(4)
+	vx,vy = tx-Wh.x,ty-Wh.y
+	pulse = gB(10) and not hold
+	hold = gB(10)
+	if rdy and pulse then
+		vv = M.sqrt(vx^2+vy^2)
+		Wh:impA(M.atan(vx,vy), M.min(vv/10,10))
+		rdy = false
+	end
+	
+	beep={}
+	for i,o in ipairs(balls) do
+		if not o.out then
+			o.x = o.x +o.vx
+			o.y = o.y +o.vy
+			o.vx = o.vx *0.98
+			o.vy = o.vy *0.98
+			o.vv = M.sqrt(o.vx^2+o.vy^2)
+			
+			if o.x&lt;tL or o.x&gt;tR then
+				o.x = o.x&lt;tL and 2*tL-o.x or 2*tR-o.x
+				o.vx = o.vx *-0.8
+				beep[3]=true
+			end
+			if o.y&lt;tT or o.y&gt;tB then
+				o.y = o.y&lt;tT and 2*tT-o.y or 2*tB-o.y
+				o.vy = o.vy *-0.8
+				beep[3]=true
+			end
+			for j,t in ipairs(balls) do
+				if t~=o and not t.out then
+					dx=t.x-o.x
+					dy=t.y-o.y
+					dd=dx^2+dy^2
+					if dd&lt;4*bS^2 then
+						dn=M.sqrt(dd)
+						dd=(bS*2-dn)/dn/2
+						o.x=o.x-dx*dd
+						o.y=o.y-dy*dd
+						t.x=t.x+dx*dd
+						t.y=t.y+dy*dd
+						nx=dx/dn
+						ny=dy/dn
+						kx=o.vx-t.vx
+						ky=o.vy-t.vy
+						p=nx*kx+ny*ky
+						o.vx=o.vx-p*nx
+						o.vy=o.vy-p*ny
+						t.vx=t.vx+p*nx
+						t.vy=t.vx+p*ny				
+						beep[1]=true
+					end
+				end
+			end
+			for ty=0,1 do
+				for tx=0,1,0.5 do
+					if ((tL+tx*tW-o.x)^2+(tT+ty*tH-o.y)^2) &lt; 0.5*ho^2 then
+						if o==Wh then
+							o.vx,o.vy=0,0
+							o.x,o.y=tL+tW/4,cy
+						else
+							o.out=true
+						end
+						beep[2]=true
+					end
+				end
+			end
+		end
+	end
+	for i=1,3 do O.setBool(i,beep[i]) end
+end
+
+function onDraw()
+	w,h = S.getWidth(),S.getHeight()
+	cx,cy = w/2,h/2
+	brd = 12
+	ho = brd*0.6
+	tL,tT = brd,brd
+	tR,tB = w-brd,h-brd
+	tW,tH = tR-brd,tB-brd
+	if Wh==nil then return true end
+	
+	for i,o in ipairs(balls) do
+		if not o.out then
+			C(0,0,0,30)
+			dCF(o.x+0.3,o.y+1,bS+0.4)
+			dCF(o.x+0.6,o.y+1,bS+0.6)
+			C(b_r[i],b_g[i],b_b[i]) dCF(o.x,o.y,bS)
+			if i&gt;1 then
+				if side[i] == 1 then C(0,0,0) else C(99,99,99) end
+				dTxB(o.x-bS+1,1+o.y-bS*1.5,2*bS,2*bS,num[i],0,1)
+				dTxB(o.x-bS,1+o.y-bS*1.5,2*bS,2*bS,num[i],0,1)
+				if side[i] ~= 1 then C(0,0,0) else C(99,99,99) end
+				dTxB(o.x-bS,o.y-bS*1.5,2*bS,2*bS,num[i],0,1)
+			end
+			C(255,255,255,50) dCF(o.x-bS*0.4,o.y-bS*0.4,bS/5)
+		end
+	end
+	
+	if rdy then
+		vd=M.atan(vx,vy)
+		vv=M.sqrt(vx^2+vy^2)
+		wx=Wh.x-si(vd)*vv*0.2
+		wy=Wh.y-co(vd)*vv*0.2
+		ss=si(vd+pi/2)
+		cc=co(vd+pi/2)
+		C(15,8,2)
+		dTF(wx+ss,wy+cc,wx-1.5*vx+3*ss,wy-1.5*vy+3*cc,wx-1.5*vx-3*ss,wy-1.5*vy-3*cc)
+		C(10,5,1)
+		dTF(wx+ss,wy+cc,wx-ss,wy-cc,wx-1.5*vx-3*ss,wy-1.5*vy-3*cc)
+		C(0,0,0,20)
+		dL(wx,wy,tx,ty)
+	end
+end'><pos x="-0.75"/><in1 component_id="15"/><in2 component_id="14" node_index="1"/></object></c><c type="56"><object id="14" script="-- shorcuts
+M=math
+si=M.sin
+co=M.cos
+pi=M.pi
+pi2=pi*2
+
+S=screen
+dL=S.drawLine
+dC=S.drawCircle
+dCF=S.drawCircleF
+dR=S.drawRect
+dRF=S.drawRectF
+dT=S.drawTriangle
+dTF=S.drawTriangleF
+dTx=S.drawText
+dTxB=S.drawTextBox
+
+C=S.setColor
+
+MS=map.mapToScreen
+SM=map.screenToMap
+
+I=input
+O=output
+P=property
+prB=P.getBool
+prN=P.getNumber
+prT=P.getText
+
+tU=table.unpack
+ins=table.insert
+F=string.format
+
+function dPoi(x,y,s,r,...)local a=...a=(a or 30)*pi/360;r=r*pi/180;dTF(x,y,x-s*si(r+a),y+s*co(r+a),x-s*si(r-a),y+s*co(r-a))end
+
+function onTick()
+end
+
+function onDraw()
+	w,h = S.getWidth(),S.getHeight()
+	cx,cy = w/2,h/2
+	brd = 12
+	ho = brd*0.6
+	tL,tT = brd,brd
+	tR,tB = w-brd,h-brd
+	tW,tH = tR-brd,tB-brd
+	
+--table
+	C(20,5,0) S.drawClear() --wood
+	C(25,60,10) dRF(tL-3,tT-3,tW+6,tH+6)
+	C(25,55,10) dRF(tL-2,tT-2,tW+4,tH+4)
+	C(25,50,10) dRF(tL-1,tT-1,tW+2,tH+2)
+	C(15,30,8) dRF(tL,tT,tW,tH) --table
+	C(10,30,5) dR(tL,tT,tW,tH)
+	C(20,40,10) --corners
+
+	C(99,99,99,150) --markers
+	for i=1,7 do
+		dCF(tL+tW/8*i,tT-ho,0.5)
+		dCF(tL+tW/8*i,tB+ho,0.5)
+	end
+	for i=1,3 do
+		dCF(tL-ho,tT+tH/4*i,0.5)
+		dCF(tR+ho,tT+tH/4*i,0.5)
+	end
+	C(0,0,0) --holes
+	dCF(tL-0.3*ho,tT-0.3*ho,ho)
+	dCF(tR+0.3*ho,tT-0.3*ho,ho)
+	dCF(cx,tT-0.3*ho,ho)
+	dCF(tL-0.3*ho,tB+0.3*ho,ho)
+	dCF(tR+0.3*ho,tB+0.3*ho,ho)
+	dCF(cx,tB+0.3*ho,ho)
+--
+end"><pos x="-0.75" y="0.75"/><in2 component_id="6"/></object></c><c type="40"><object id="15" count="3" offset="9"><pos x="-2.25" y="-0.5"/><inc component_id="16"/><in1/><in2/><in3/></object></c><c type="41"><object id="16" count="2" offset="9"><pos x="-2.25" y="0.75"/><inc component_id="9"/><in1 component_id="31"/><in2 component_id="22"/></object></c><c type="29"><object id="23"><pos x="0.75" y="1.5"/><in1 component_id="13"/></object></c><c type="29"><object id="24" i="1"><pos x="0.75" y="1"/><in1 component_id="13"/></object></c><c type="29"><object id="27" i="2"><pos x="0.75" y="0.5"/><in1 component_id="13"/></object></c><c type="46"><object id="31" e="x|y|z|w"><pos x="-3.75" y="1"/><in1 component_id="21"/><in2 component_id="28"/><in3 component_id="29"/><in4 component_id="30"/></object></c></components><components_bridge><c type="6"><object id="6"><pos x="-0.75" y="1.5"/></object></c><c type="7"><object id="8"><pos x="-0.75" y="-0.5"/><in1 component_id="13" node_index="1"/></object></c><c type="4"><object id="9"><pos x="-2.25" y="1.75"/></object></c><c type="5"><object id="11"><pos x="0.75" y="-0.25"/><in1 component_id="13"/></object></c><c type="1"><object id="18"><pos x="2.25" y="1.5"/><in1 component_id="23"/></object></c><c type="1"><object id="20"><pos x="2.25" y="1"/><in1 component_id="24"/></object></c><c><object id="21"><pos x="-5.25" y="1.75"/></object></c><c><object id="22"><pos x="-3.75" y="0.25"/></object></c><c type="1"><object id="26"><pos x="2.25" y="0.5"/><in1 component_id="27"/></object></c><c><object id="28"><pos x="-5.25" y="1.25"/></object></c><c><object id="29"><pos x="-5.25" y="0.75"/></object></c><c><object id="30"><pos x="-5.25" y="0.25"/></object></c></components_bridge><groups/></group></microprocessor_definition><vp x="8" y="3" z="8"/><logic_slots><slot/><slot/><slot/><slot/><slot/><slot/><slot/><slot/><slot/><slot/><slot/><slot/></logic_slots></o></c><c><o r="-1,0,0,0,-1,0,0,0,1" bc="482700" ac="482700" sc="6,482700,342700,482700,482700,482700,482700"><vp x="11" y="3" z="5"/></o></c><c><o r="-1,0,0,0,-1,0,0,0,1" bc="482700" ac="482700" sc="6,482700,342700,482700,482700,482700,482700"><vp x="12" y="3" z="5"/></o></c><c d="buzzer"><o r="-1,0,0,0,-1,0,0,0,1" bc="141414" ac="141414" sc="5" decimal_point_pos="3" volume="0.4984" pitch="2"><vp x="12" y="3" z="6"/><logic_slots><slot/><slot/><slot editor_connected="1"/></logic_slots><min_value text="-1.0" value="-1"/><max_value text="1.0" value="1"/></o></c><c d="buzzer"><o r="-1,0,0,0,-1,0,0,0,1" bc="141414" ac="141414" sc="5" decimal_point_pos="3" volume="0.2127" pitch="1.3143"><vp x="12" y="3" z="8"/><logic_slots><slot/><slot/><slot editor_connected="1"/></logic_slots><min_value text="-1.0" value="-1"/><max_value text="1.0" value="1"/></o></c><c d="buzzer"><o r="0,0,1,0,-1,0,1,0,0" bc="141414" ac="141414" sc="5" decimal_point_pos="3" volume="0.4667" pitch="1.819"><vp x="6" y="3" z="8"/><logic_slots><slot/><slot/><slot editor_connected="1"/></logic_slots><min_value text="-1.0" value="-1"/><max_value text="1.0" value="1"/></o></c><c><o r="-1,0,0,0,-1,0,0,0,1" bc="482700" ac="482700" sc="6,342700,482700,482700,482700,482700,482700"><vp x="11" y="3" z="9"/></o></c><c><o r="-1,0,0,0,-1,0,0,0,1" bc="482700" ac="482700" sc="6,342700,482700,482700,482700,482700,482700"><vp x="12" y="3" z="9"/></o></c><c d="07_invpyramid_2"><o r="0,0,1,1,0,0,0,1,0" bc="482700" ac="482700" sc="12,482700,482700,482700,342700,342700,1F0F00,482700,482700,342700,342700,1F0F00,482700"><vp x="12" y="2" z="5"/></o></c><c d="07_invpyramid_2" t="1"><o r="0,0,1,1,0,0,0,1,0" bc="482700" ac="482700" sc="12,482700,482700,482700,342700,342700,1F0F00,482700,482700,342700,342700,1F0F00,482700"><vp x="12" y="2" z="9"/></o></c><c d="button_push"><o r="0,0,-1,-1,0,0,0,1,0" bc="8F0000" ac="8F0000" sc="5,482700,482700,482700,482700,482700" custom_name="! Reset !" hold_duration="1"><vp x="5" y="3" z="7"/><logic_slots><slot/><slot/><slot/><slot/><slot/></logic_slots><min_lever_value text="0"/><max_lever_value text="1" value="1"/><starting_lever_value text="0"/></o></c><c d="button_push"><o r="1,0,0,0,1,0,0,0,1" bc="482700" ac="29ADFF" sc="5" custom_name="Shoot" hold_duration="1"><vp x="5" y="4" z="10"/><logic_slots><slot/><slot/><slot/><slot/><slot/></logic_slots><min_lever_value text="0"/><max_lever_value text="1" value="1"/><starting_lever_value text="0"/></o></c><c d="button_push" t="4"><o r="1,0,0,0,1,0,0,0,1" bc="482700" ac="29ADFF" sc="5" custom_name="Shoot" hold_duration="1"><vp x="5" y="4" z="4"/><logic_slots><slot/><slot/><slot/><slot/><slot/></logic_slots><min_lever_value text="0"/><max_lever_value text="1" value="1"/><starting_lever_value text="0"/></o></c><c d="button_push"><o r="1,0,0,0,1,0,0,0,1" bc="482700" ac="29ADFF" sc="5" custom_name="Shoot" hold_duration="1"><vp x="13" y="4" z="10"/><logic_slots><slot/><slot/><slot/><slot/><slot/></logic_slots><min_lever_value text="0"/><max_lever_value text="1" value="1"/><starting_lever_value text="0"/></o></c><c d="button_push" t="4"><o r="1,0,0,0,1,0,0,0,1" bc="482700" ac="29ADFF" sc="5" custom_name="Shoot" hold_duration="1"><vp x="13" y="4" z="4"/><logic_slots><slot/><slot/><slot/><slot/><slot/></logic_slots><min_lever_value text="0"/><max_lever_value text="1" value="1"/><starting_lever_value text="0"/></o></c><c d="02_wedge"><o r="0,-1,0,-1,0,0,0,0,-1" bc="482700" ac="482700" sc="5"><vp x="12" y="4" z="10"/></o></c><c d="02_wedge" t="4"><o r="0,-1,0,-1,0,0,0,0,-1" bc="482700" ac="482700" sc="5"><vp x="12" y="4" z="4"/></o></c><c d="02_wedge"><o r="0,-1,0,0,0,1,-1,0,0" bc="482700" ac="482700" sc="5"><vp x="6" y="4" z="10"/></o></c><c d="02_wedge" t="2"><o r="0,-1,0,0,0,1,-1,0,0" bc="482700" ac="482700" sc="5"><vp x="6" y="4" z="4"/></o></c><c d="electric_curcuit_breaker"><o r="0,0,1,1,0,0,0,1,0" bc="482700" ac="482700" sc="5,342700,482700,342700,482700,482700" custom_name="Power" default_state="true"><vp x="13" y="3" z="7"/><logic_slots><slot/><slot/><slot/></logic_slots></o></c><c d="battery_small"><o r="-1,0,0,0,-1,0,0,0,1" bc="141414" ac="141414" sc="2"><vp x="6" y="3" z="7"/><logic_slots><slot/><slot/><slot/></logic_slots></o></c></components></body></bodies><logic_node_links><logic_node_link><voxel_pos_0 x="6" y="3" z="6"/><voxel_pos_1 x="9" y="4" z="7"/></logic_node_link><logic_node_link type="6"><voxel_pos_0 x="8" y="3" z="8"/><voxel_pos_1 x="9" y="4" z="7"/></logic_node_link><logic_node_link><voxel_pos_0 x="8" y="3" z="6"/><voxel_pos_1 x="6" y="3" z="8"/></logic_node_link><logic_node_link><voxel_pos_0 x="9" y="3" z="6"/><voxel_pos_1 x="12" y="3" z="6"/></logic_node_link><logic_node_link><voxel_pos_0 x="10" y="3" z="6"/><voxel_pos_1 x="12" y="3" z="8"/></logic_node_link><logic_node_link><voxel_pos_0 x="5" y="4" z="4"/><voxel_pos_1 x="10" y="3" z="8"/></logic_node_link><logic_node_link><voxel_pos_0 x="5" y="3" z="7"/><voxel_pos_1 x="10" y="3" z="7"/></logic_node_link><logic_node_link><voxel_pos_0 x="5" y="4" z="10"/><voxel_pos_1 x="11" y="3" z="8"/></logic_node_link><logic_node_link><voxel_pos_0 x="13" y="4" z="10"/><voxel_pos_1 x="11" y="3" z="7"/></logic_node_link><logic_node_link><voxel_pos_0 x="13" y="4" z="4"/><voxel_pos_1 x="11" y="3" z="6"/></logic_node_link><logic_node_link type="4"><voxel_pos_0 x="13" y="3" z="7"/><voxel_pos_1 x="12" y="3" z="6"/></logic_node_link><logic_node_link type="4"><voxel_pos_0 x="13" y="3" z="7"/><voxel_pos_1 x="12" y="3" z="8"/></logic_node_link><logic_node_link type="4"><voxel_pos_0 x="13" y="3" z="7"/><voxel_pos_1 x="13" y="4" z="4"/></logic_node_link><logic_node_link type="4"><voxel_pos_0 x="13" y="3" z="7"/><voxel_pos_1 x="13" y="4" z="10"/></logic_node_link><logic_node_link type="4"><voxel_pos_0 x="13" y="3" z="7"/><voxel_pos_1 x="9" y="4" z="7"/></logic_node_link><logic_node_link type="4"><voxel_pos_0 x="13" y="3" z="7"/><voxel_pos_1 x="5" y="4" z="4"/></logic_node_link><logic_node_link type="4"><voxel_pos_0 x="13" y="3" z="7"/><voxel_pos_1 x="5" y="3" z="7"/></logic_node_link><logic_node_link type="4"><voxel_pos_0 x="13" y="3" z="7"/><voxel_pos_1 x="6" y="3" z="8"/></logic_node_link><logic_node_link type="4"><voxel_pos_0 x="13" y="3" z="7"/><voxel_pos_1 x="5" y="4" z="10"/></logic_node_link><logic_node_link type="4"><voxel_pos_0 x="6" y="3" z="7"/><voxel_pos_1 x="14" y="3" z="7"/></logic_node_link><logic_node_link type="5"><voxel_pos_0 x="9" y="4" z="7"/><voxel_pos_1 x="8" y="3" z="7"/></logic_node_link></logic_node_links></vehicle>
